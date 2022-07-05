@@ -1589,6 +1589,7 @@ ul.foot__list li a {
     .footer__foot{
         flex-wrap: wrap;
         justify-content: center;
+        padding: 27px 0;
     }
 
     .footer__foot .copy__right p{
